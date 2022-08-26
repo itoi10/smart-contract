@@ -34,3 +34,6 @@
 
 ## 参考書籍
 [WEB+DB PRESS Vol.130](https://www.amazon.co.jp/dp/B0B8MY1BWR)
+
+## 参考記事
+https://solidity-jp.readthedocs.io/ja/latest/index.html
